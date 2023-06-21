@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// This script handles spawning the scavenger into the sim. Should be refactored to spawn any kind of creature
+/// </summary>
 public class ScavengerSpawn : MonoBehaviour
 {
     public GameObject scavenger;

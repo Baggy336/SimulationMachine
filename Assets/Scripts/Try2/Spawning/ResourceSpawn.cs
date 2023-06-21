@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// This script runs off a timer to spawn the resources in the sim
+/// </summary>
 public class ResourceSpawn : MonoBehaviour
 {
     public float spawnRate = 1;

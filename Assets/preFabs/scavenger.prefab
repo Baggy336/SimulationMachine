@@ -92,7 +92,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a0c63bbe59dbb7489eb70a4487c5fb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  networkShape: 080000002000000002000000
+  networkShape: 080000000c0000000c00000002000000
 --- !u!143 &859300012686846057
 CharacterController:
   m_ObjectHideFlags: 0
